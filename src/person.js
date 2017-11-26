@@ -1,15 +1,15 @@
 /* eslint-disable */
 export const PERSON = {
   name: {
-    first: 'John',
+    first: 'XiChuan',
     middle: '',
-    last: 'Doe',
+    last: 'Yang',
   },
-  about: 'Hi, my name is John Doe. I\'m just about the most boring type of person you could possibly imagine. I like collecting leaves from the tree in my back yard and documenting each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.',
+  about: 'Hi, my name is XiChuan Yang. I\'m just about the most boring type of person you could possibly imagine. I like collecting leaves from the tree in my back yard and documenting each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.',
   position: 'Software Developer',
   birth: {
-    year: 1990,
-    location: 'New York'
+    year: 1993,
+    location: 'Shen Zhen'
   },
   experience: [{
       company: 'Company A',
